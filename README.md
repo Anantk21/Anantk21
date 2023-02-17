@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anant Krishna</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipthakor2021&label=Profile%20views&color=0e75b6&style=flat" alt="sandipthakor2021" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantk21&label=Profile%20views&color=0e75b6&style=flat" alt="anantk21" /> </p>
 - 🌱 I’m currently learning *DSA(PYTHON)*<br>
 
 - 💬 Ask me about *Anything*<br>
